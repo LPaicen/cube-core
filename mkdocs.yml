@@ -1,0 +1,10 @@
+# Information
+site_name: Cube Core
+site_url: https://lpaicen.github.io/cube-core/
+edit_uri: edit/main/docs/
+site_description: 立方内核官方文档
+
+# Configuration
+theme:
+  name: material
+  language: zh
